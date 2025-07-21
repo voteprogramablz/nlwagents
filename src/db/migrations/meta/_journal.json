@@ -15,6 +15,20 @@
       "when": 1752389727710,
       "tag": "0001_brainy_rumiko_fujikawa",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752717772703,
+      "tag": "0002_faithful_stature",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1753047884619,
+      "tag": "0003_slippery_storm",
+      "breakpoints": true
     }
   ]
 }
